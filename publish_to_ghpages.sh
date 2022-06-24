@@ -25,8 +25,8 @@ git submodule update --init --recursive
 echo "Removing existing files"
 rm -rf public/*
 
-echo "Creating CNAME for tics.site domain"
-echo tics.site > public/CNAME
+echo "Creating CNAME for tics.101.cy domain"
+echo tics.101.cy > public/CNAME
 
 echo "Generating site"
 hugo

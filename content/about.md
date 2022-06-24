@@ -40,5 +40,5 @@ Internet Censorship and Surveillance, hence, we look forward to
 academic conferences with different orientations willing to add TICS
 as a special track within them.
 
-Please contact us at `chairs@tics.site` for any collaboration
+Please contact us at `tics@101.cy` for any collaboration
 suggestion, or for any questions regarding the nature of our work.
