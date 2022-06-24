@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TICS - Topics on Internet Censorship and Surveillance</title>
     <link>/</link>
     <description>Recent content on TICS - Topics on Internet Censorship and Surveillance</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for Papers</title>
       <link>/cfp/</link>
@@ -38,10 +33,8 @@
       <description>Chairs and Coordinators
  Vasilis Ververis, PhD Candidate, Humboldt University Berlin, Germany ververis@kth.se Marios Isaakidis, PhD Canditate, University College London, UK m.isaakidis@cs.ucl.ac.uk Gunnar Wolf, M. Eng., Universidad Nacional Autónoma de México, Mexico gwolf@gwolf.org  Sessions CFP: https://www.iaria.org/conferences2019/filesICN19/TICS.pdf
 Conference Program: https://www.iaria.org/conferences2019/ProgramICN19.html
- CENO and Ouinet: Ignore Censorship with P2P-Backed Web Browsing [presentation]
-Ivan Vilata-i-Balaguer, Peter Jankuliak, Dmitriy Volkov
-In Proc. of: International Conference on Networking and Services, 2019, ICN
- Distributed Detection of Tor Directory Authorities Censorship in Mexico [paper, presentation]</description>
+  CENO and Ouinet: Ignore Censorship with P2P-Backed Web Browsing [presentation]Ivan Vilata-i-Balaguer, Peter Jankuliak, Dmitriy VolkovIn Proc. of: International Conference on Networking and Services, 2019, ICN
+  Distributed Detection of Tor Directory Authorities Censorship in Mexico [paper, presentation]Gunnar Eyal Wolf IszaevichIn Proc.</description>
     </item>
     
   </channel>
